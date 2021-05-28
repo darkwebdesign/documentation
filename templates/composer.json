@@ -9,21 +9,25 @@
         {"name": "Raymond Schouten"}
     ],
     "require": {
+        "php": ">=7.2.5"
     },
     "require-dev": {
-        "phpunit/phpunit": "^4.8",
-        "codeclimate/php-test-reporter": "^0.3.2"
+        "phpunit/phpunit": "^8.5"
+    },
+    "suggest": {
+    },
+    "replace": {
+    },
+    "conflict": {
     },
     "autoload": {
-        "psr-0": {
-            "DarkWebDesign": "lib"
+        "psr-4": {
+            "DarkWebDesign\\<RepositoryName>\\": "src/"
         }
     },
     "autoload-dev": {
-        "psr-0": {
-            "DarkWebDesign": "tests"
+        "psr-4": {
+            "DarkWebDesign\\<RepositoryName>\\Tests\\": "tests/"
         }
-    },
-    "suggest": {
     }
 }

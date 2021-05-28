@@ -4,7 +4,7 @@
 [![Total Downloads](https://poser.pugx.org/darkwebdesign/<repository-name>/downloads?format=flat)](https://packagist.org/packages/darkwebdesign/<repository-name>)
 [![License](https://poser.pugx.org/darkwebdesign/<repository-name>/license?format=flat)](https://packagist.org/packages/darkwebdesign/<repository-name>)
 
-[![Build Status](https://travis-ci.org/darkwebdesign/<repository-name>.svg?branch=master)](https://travis-ci.org/darkwebdesign/<repository-name>?branch=master)
+[![Build Status](https://travis-ci.com/darkwebdesign/<repository-name>.svg?branch=master)](https://travis-ci.com/darkwebdesign/<repository-name>)
 [![Coverage Status](https://codecov.io/gh/darkwebdesign/<repository-name>/branch/master/graph/badge.svg)](https://codecov.io/gh/darkwebdesign/<repository-name>)
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.3-blue.svg)](https://php.net/)
 [![Minimum Symfony Version](https://img.shields.io/badge/symfony-%3E%3D%202.3-green.svg)](https://symfony.com/)
